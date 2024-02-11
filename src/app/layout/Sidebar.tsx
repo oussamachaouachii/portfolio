@@ -75,7 +75,7 @@ export default function Sidebar({
         <Tooltip title="Home" arrow placement="right">
           <Link
             target="_blank"
-            href={"/"}
+            href={"/portfolio"}
             underline="none"
             color="inherit"
             sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
